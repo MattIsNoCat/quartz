@@ -1,27 +1,16 @@
 ---
-title: 🪴 Quartz 3.
+title: 🪴 Arcadian - Index.
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Hey!
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+Welcome to Arcadian, my [[notes/Digital garden]]. 
+You'll find all sorts of things here: ideas, essays, short stories, notes on various topics, etc. These are all connected by means of links, like [[notes/this one!]] You can jump around whatever you find interesting using those links, and find your way back using the links at the bottom (or your back button). 
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+But [[notes/who am I?]]
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+The main reason this place exists is as a means to collect my thoughts and practice [[Learning in public]]. For that reason, there will also be a lot of thoughts and pages that aren't finished, or are otherwise added to over time. Things will grow and change, and you'll get to see it happen if you follow along. 
+Now, I understand if that isn't your cup of tea. I also have a collection of completed, curated posts down below.
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 

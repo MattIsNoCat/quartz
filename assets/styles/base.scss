@@ -1,8 +1,12 @@
 // Replace this with your own font imports!
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet&family=Inknut+Antiqua:wght@500;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
 :root {
-  --font-body: "Source Sans Pro";
-  --font-header: "Inter";
+  --font-body: "Hahmlet";
+  --font-header: "Unbounded";
   --font-mono: "Fira Code"
 }
 
@@ -255,7 +259,9 @@ sup > a {
 #page-title {
   margin: 0;
   & > a {
-    font-family: var(--font-header);
+    font-family: Inknut Antiqua;
+    font-weight: 900;
+    color:Goldenrod;
   }
 }
 
@@ -621,3 +627,87 @@ mark {
   background-color: var(--highlighted);
   color: var(--gray);
 }
+
+.sn-right,
+.mn-right {
+ float:right;
+ clear:right;
+ font-family:var(--secondary-font-family) !important;
+ font-size:14px;
+ margin-right:-45%;
+ width:40%;
+ margin-top:0;
+ margin-bottom:0;
+ vertical-align:baseline;
+ position:relative;
+ padding-bottom:5px
+}
+.sn-left,
+.mn-left {
+ float:left;
+ clear:left;
+ font-family:var(--secondary-font-family) !important;
+ font-size:14px;
+ margin-left:-45%;
+ width:40%;
+ margin-top:0;
+ margin-bottom:0;
+ vertical-align:baseline;
+ position:relative;
+ padding-bottom:5px
+}
+.sidenote-number {
+ counter-increment:sidenote-counter
+}
+.sidenote-number:after,
+.sn-left:before,
+.sn-right:before {
+ font-family:var(--secondary-font-family) !important;
+ position:relative;
+ vertical-align:baseline
+}
+.sidenote-number:after {
+ content:counter(sidenote-counter);
+ font-size:12px;
+ top:-0.5rem;
+ left:0.1rem
+}
+.sn-right:before,
+.sn-left:before {
+ content:counter(sidenote-counter) " ";
+ font-size:14px;
+ top:-0.5rem
+}
+blockquote .sn-left,
+blockquote .mn-left {
+ float:left;
+ clear:left;
+ margin-left:-58%;
+ width:40%;
+ text-align:left
+}
+li .sn-left,
+li .mn-left {
+ float:left;
+ clear:left;
+ margin-left:-53%;
+ width:40%;
+ text-align:left
+}
+blockquote .sn-right,
+blockquote .mn-right {
+ float:right;
+ clear:right;
+ margin-right:-59% !important;
+ width:40%;
+ text-align:left
+}
+li .sn-right,
+li .mn-right {
+ float:right;
+ clear:right;
+ margin-right:-49% !important;
+ width:40%;
+ text-align:left
+}
+
