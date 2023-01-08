@@ -14,3 +14,4 @@ The main reason this place exists is as a means to collect my thoughts and pract
 Now, I understand if that isn't your cup of tea. I also have a collection of completed, curated posts down below.
 
 
+[[Judith Butler & Gender Performativiteit]]
