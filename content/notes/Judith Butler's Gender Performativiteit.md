@@ -1,7 +1,6 @@
 ---
-title: "Judith Butler & Gender Performativiteit"
+title: "Judith Butler's Gender Performativiteit"
 tags: "Gender"
-alias: "Gender Performativiteit"
 ---
 _Epistemic disclaimer: Confidence 4/10, effort 4/10._ 
 

@@ -16,4 +16,4 @@ Now, I understand if that isn't your cup of tea. I also have a collection of com
 
 
 # Curated Posts
-[[Judith Butler & Gender Performativiteit]]
+[[notes/Judith Butler's Gender Performativiteit]]
