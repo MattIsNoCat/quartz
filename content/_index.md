@@ -1,5 +1,5 @@
 ---
-title: 🪴 Arcadian - Index.
+title: Index.
 enableToc: false
 ---
 
@@ -14,4 +14,6 @@ The main reason this place exists is as a means to collect my thoughts and pract
 Now, I understand if that isn't your cup of tea. I also have a collection of completed, curated posts down below.
 
 
+
+# Curated Posts
 [[Judith Butler & Gender Performativiteit]]

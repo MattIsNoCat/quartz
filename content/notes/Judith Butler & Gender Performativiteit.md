@@ -1,9 +1,9 @@
 ---
-title: "Judith Butler"
+title: "Judith Butler & Gender Performativiteit"
 tags: "Gender"
 alias: "Gender Performativiteit"
 ---
-_Epistemic disclaimer: Confidence 4/10, effort 4/10. 
+_Epistemic disclaimer: Confidence 4/10, effort 4/10._ 
 
 Judith Butler definieerde in haar book Gender Troubles een onderscheid tussen sekse en gender. Dit was verre van het alomvertegenwoordigde paradigma dat het tegenwoordig is, en het is mede dankzij het werk van Butler's werk dat dit de gang van zaken is nu. 
 
