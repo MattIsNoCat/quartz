@@ -1,3 +1,7 @@
+---
+title: "Nameless - Scene 1"
+tags: "{{tags}}"
+---
 A flash of light blinds the entirety of the crew, as it reveals an unwanted new sight on the horizon. Galaxer’s dread-fleet. - Markus
 
 Jonny, Derick and Tess all groan in unison.
